@@ -1,0 +1,17 @@
+What is a computer?
+A computer is a programable device that stores, retrives, and processes data and gives outputs
+
+What is Data Science?
+Data science is the interdescipinary field. It helps in extracting insights or knowledge from data.
+
+What is Artificial Intelligence(AI)?
+Artificial intelligence (AI) is the ability of a computer or a robot controlled by a computer to do tasks that are usually done by humans because they require human intellgence and discerment.
+
+What is text similarity?
+text similarity measures how much the meaning or content of the two pieces of text are the same.
+
+List any 3 algorithm in ml?
+Decision Tree,Random forest, and Logistic Regression
+
+What does OOP stands for?
+Object Oriented Programming
